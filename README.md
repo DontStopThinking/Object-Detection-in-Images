@@ -2,6 +2,9 @@
 Mini project for completion of my third year of computer science engineering
 
 ![Main window](https://github.com/ShantanuBalse/Object-Detection-in-Images/blob/master/Screenshots/Capture.PNG)
+![Before](https://github.com/ShantanuBalse/Object-Detection-in-Images/blob/master/Screenshots/before.jpg)
+![After](https://github.com/ShantanuBalse/Object-Detection-in-Images/blob/master/Screenshots/after.jpg)
+![table](https://github.com/ShantanuBalse/Object-Detection-in-Images/blob/master/Screenshots/table.PNG)
 
 
 ### Dependencies
