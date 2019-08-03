@@ -1,7 +1,7 @@
 # Object-Detection-in-Images
 Computer science mini project submitted in satisfaction of my third year at Department of Technology, Shivaji University, Kolhapur.
 
-The program takes in an image file as input and detect most objects from it by drawing a border around the respective object. It also displays a table listing all the objects that it has managed to detect and the percentage probability of their accuracy.
+The program takes in an image file as input and detects most objects from it by drawing a bounding box around the respective object. It also prints the detected name of that object above the box. The accuracy of the recognition depends on the size of the object and clarity of the image. Generally, the larger the size of the bounding box surrounding the object, the more accurate the recognition will be. It also displays a table listing all the objects that it has managed to detect and the percentage probability of their accuracy.
 
 ![Main window](https://github.com/ShantanuBalse/Object-Detection-in-Images/blob/master/Screenshots/Capture.PNG)
 
